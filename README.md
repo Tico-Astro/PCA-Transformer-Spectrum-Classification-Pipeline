@@ -5,6 +5,12 @@ A method that first reduces the dimension of the original spectra data using PCA
 
 This project is currently undergoing further refinement for the future work.  As a result, the pre-trained model weights and the integrated training datasets are not publicly available at this time.  We plan to release more assets in the future.  Thank you for your understanding.
 
+## Acknowledgements
+
+This project is built upon [Mgformer](https://doi.org/10.1016/j.engappai.2024.108633). We gratefully acknowledge their contributions.
+
+The source code or model has been adapted from the following repository:
+(https://github.com/LiYunxiaoboy/mgformer)
 
 ## 📂 Project Structure
 
