@@ -30,7 +30,6 @@ This section outlines the functions of the key directories and files in this rep
 | **`Std_traning_set_code.ipynb`** | Preprocessing | Scripts for spectral stacking, PCA dimensionality reduction, and dataset generation. (Some deletions)|
 | **`PCA_host_substract.py`** | Preprocessing | An integrated program for host-galaxy subtraction and PCA vector extraction. |
 | **`Sdss_pipeline_simp.ipynb`** | Inference | Demonstration of spectral preprocessing and sample classification results. (Some deletions) |
-| **`SDSS_result.ipynb`** | Analysis | Post-classification analysis and visualization for SDSS spectral data. |
 | **`utils.py`** | Helpers | Utility functions for data loading, augmentation, and training support. |
 
 ---
