@@ -26,7 +26,7 @@ This section outlines the functions of the key directories and files in this rep
 
 | File | Category | Description |
 | :--- | :--- | :--- |
-| **`Model_train-spectrum.ipynb`** | Training | Main pipeline for Transformer model training and performance evaluation. (Some deletions)|
+| **`Model_Train-Spectrum-for_demo_1.ipynb`** | Training | Main pipeline for Transformer model training and performance evaluation. (Some deletions)|
 | **`Std_traning_set_code.ipynb`** | Preprocessing | Scripts for spectral stacking, PCA dimensionality reduction, and dataset generation. (Some deletions)|
 | **`PCA_host_substract.py`** | Preprocessing | An integrated program for host-galaxy subtraction and PCA vector extraction. |
 | **`Sdss_pipeline_simp.ipynb`** | Inference | Demonstration of spectral preprocessing and sample classification results. (Some deletions) |
