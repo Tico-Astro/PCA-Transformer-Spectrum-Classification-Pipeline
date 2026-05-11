@@ -1,4 +1,4 @@
-# PCA-Transformer-Spectrum-Classification-Pipeline
+# (PCA-Transformer Spectra Classification Pipeline)PTSCP
 A method that first reduces the dimension of the original spectra data using PCA and then classifies it using the Transformer model.
 
 ## Current Status & Data Availability
